@@ -12,7 +12,7 @@ const Contact = () => {
       <div className='outer'>
 
         <div className="box">
-          <form action='https://getform.io/f/6ff13a48-b2f2-4584-aff9-f384c2ca0cca' method='POST' className="form">
+          <form action='https://getform.io/f/6232be02-ed17-4e61-9417-fc14790f6a3c' method='POST' className="form">
 
             <h2>Contact Me 😃</h2>
             <div className="inputBox">
